@@ -5,6 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.transaction.annotation.EnableTransactionManagement;
 
 //it will handle manythings @Resource,@ComponentScan,@EnableAutoConfiguration,@Configuration
+
 @SpringBootApplication
 @EnableTransactionManagement
 public class Application 
